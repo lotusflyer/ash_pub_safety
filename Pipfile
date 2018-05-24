@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+ipython = "*"
+jupyter = "*"
+pandas = "*"
+sympy = "*"
+nose = "*"
+statsmodels = "*"
+scikit-learn = "*"
+
+[requires]
+python_version = "3.6"
