@@ -16,6 +16,7 @@ sympy = "*"
 nose = "*"
 statsmodels = "*"
 scikit-learn = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
